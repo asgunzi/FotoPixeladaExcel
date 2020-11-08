@@ -5,7 +5,7 @@ Como criar uma foto pixelada no Excel
 
 A ideia deste tutorial é pegar uma imagem qualquer e pintar as células do Excel de forma correspondente.
 
-![](https://ferramentasexcelvba.files.wordpress.com/2020/11/fotoexcel.jpg)
+![](https://ferramentasexcelvba.files.wordpress.com/2020/11/yoda.jpg)
 
 Uma imagem é apenas um retângulo dividido em quadriculados (o pixel), e cada pixel é pintado de uma cor.
 
@@ -41,9 +41,14 @@ Passo 2)  Rodar a macro “Pixeliza” do Excel em anexo. É necessário mudar o
 
 E pronto, temos uma reprodução da imagem na planilha, que pode ser editada normalmente, como qualquer arquivo Excel.
 
+![](https://ferramentasexcelvba.files.wordpress.com/2020/11/ironman.jpg)
+
 Atenção. Rodando essa macro, descobri que o Excel tem um limite de 4000 células com formatação diferente.
 
 E, pior, chega facilmente nesse limite.
+
+![](https://ferramentasexcelvba.files.wordpress.com/2020/11/fotoexcel.jpg)
+
 
 Portanto, o esquema citado só funciona com imagens de resolução muito baixa.
 
